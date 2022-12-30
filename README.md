@@ -8,5 +8,7 @@ I don't have too much repositories here but I'm curently working on [TEF-ESP](ht
 
 It's a modification of my own built tuner with TEF6686 chip on board.
 
+I've recently finished doing my weather station. You can check measurements [here](https://s7.fmdx.pl/weather/).
+
 ## Contact forms
 Hmm ok... So you've got more questions? Feel free to ask them on my [e-mail](mailto:crafter321yt@gmail.com).
