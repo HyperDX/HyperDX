@@ -1,5 +1,5 @@
 # Hello! I'm hdx. Welcome to my GitHub profile!
-I'm **Mateusz** but you can call me **hdx (Hyper DX)**.
+My name is **Mateusz** but you can call me **hdx (Hyper DX)**. Nice to meet **you!**
 
 I was born in Poland 🇵🇱 but as you can see I can speak English 🇬🇧 quite fluently :).
 
